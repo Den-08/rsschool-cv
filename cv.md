@@ -3,7 +3,7 @@ email: [neryupov@rambler.ru](mailto:neryupov@rambler.ru)
 
 **My goal is to become a web developer. I like working with computer technology. I'm easy to learn, polite in communication.**
 
-> I studied:
+> ***I studied:***
 >   - Pascal
 >   - Delphi
 >   - C++
