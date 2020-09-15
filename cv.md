@@ -1,5 +1,5 @@
-1. Neryupov Denis
-2. neryupov@rambler.ru
+1. Hello! My name is Denis Neryupov.
+2. Email: neryupov@rambler.ru
 3. I want to become a web developer. I am easy to learn, I like to work with computer technology, and I am polite in communicating with people.
 4. I studied Pascal, Delphi, PHP, SQL.
 5. Now I have no experience in software development and study at the Rolling Scopes School.
